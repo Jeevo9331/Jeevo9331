@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jeevo9331
+- 👋 Hi, I’m Jeevesh Kumar
 - 👀 I’m interested in AI and DA
 - 🌱 I’m currently learning python programming language 
 - 💞️ I’m looking to collaborate on AI field
